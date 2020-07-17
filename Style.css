@@ -1,9 +1,37 @@
 
-    p1 {
-        float:right;
+    .container {
+        border: black;
+
 
     }
 
-    img {
+    
+    
+    #main {
         float:left;
+        background-color: blue;
+        margin: 10px;
+        padding: 10px 10px 10px 10px;
+        
+
     }
+
+    .text {
+        font-size: x-large;
+        margin: 10px;
+        
+        
+
+    }
+
+    
+
+
+ 
+
+ 
+        
+
+    
+ 
+   
