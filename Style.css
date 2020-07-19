@@ -1,29 +1,5 @@
-
     
-    @media screen and (min-width: 1024px ){
-        .column{
-            width: 30%;
-            margin: 5px;
-            display: inline-block;
-        }
-    }
-    @media screen and (max-width: 768px) and (min-width: 425px ){
-        .column{
-            width: 45%;
-            margin: 5px;
-            display: inline-block;
-        }
-    }
-    @media screen and (max-width: 425px ){
-        .column{
-            width: 96%;        
-            margin: 5px;
-            display: inline-block;
-        }
-    
-
-    
-    
+    /*float picture left so text can go on right*/
     #main {
         float:left;
         background-color: blue;
@@ -32,7 +8,7 @@
         
 
     }
-
+    /*text appearance*/
     .text {
         font-size: x-large;
         margin: 10px;
@@ -40,6 +16,7 @@
         
 
     }
+
 
     
 
