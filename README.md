@@ -18,3 +18,11 @@ Comments:
 
 This assignment wasn't too tough. I really enjoyed the styling aspect of it and positioning all elements on the page in the appropriate spots. 
 
+Title of app
+Live link to deployed app
+List of technologies used
+1-2 sentences explaining what the app is
+2-3 Screenshots / gifs of the app
+License (usually MIT)
+Contact information for you and any collaborators
+
