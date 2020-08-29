@@ -13,11 +13,11 @@ Responsive design ensures that web applications render well on a variety of devi
 
 Application Screenshots: 
 
-![Alt-text](https://github.com/cyraneous/hwk-1-code-refactor/blob/master/assets/Homework%202-1.JPG)
+![Alt-text](https://github.com/cyraneous/hwk-2-css-and-bootstrap/blob/master/assets/Homework%202-1.JPG)
 
-![Alt-text](https://github.com/cyraneous/hwk-1-code-refactor/blob/master/assets/Homework%202-2.JPG)
+![Alt-text](https://github.com/cyraneous/hwk-2-css-and-bootstrap/blob/master/assets/Homework%202-2.JPG)
 
-![Alt-text](https://github.com/cyraneous/hwk-1-code-refactor/blob/master/assets/Homework%202-3.JPG)
+![Alt-text](https://github.com/cyraneous/hwk-2-css-and-bootstrap/blob/master/assets/Homework%202-3.JPG)
 
 
 
